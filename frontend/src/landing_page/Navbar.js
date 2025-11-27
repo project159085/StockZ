@@ -2,13 +2,15 @@ import React from "react";
 
 function Navbar() {
   return (
-      <nav class="navbar navbar-expand-lg bg-body-tertiary border-bottom">
-        <div class="container p-2">
-          <a class="navbar-brand" href="#">
-            <img src="media/images/logo.svg" alt="logo" style={{width: "25%"}} />
+    <nav className="navbar navbar-expand-lg bg-body-tertiary border-bottom">
+      <div className="container p-2">
+        <div className="col">
+          <a className="navbar-brand" href="#">
+            <img src="media/images/logo.svg" alt="logo" style={{ width: "30%" }} />
           </a>
+
           <button
-            class="navbar-toggler"
+            className="navbar-toggler"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#navbarSupportedContent"
@@ -16,44 +18,38 @@ function Navbar() {
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
-            <span class="navbar-toggler-icon"></span>
+            <span className="navbar-toggler-icon"></span>
           </button>
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <form class="d-flex">
-              <ul class="navbar-nav mb-lg-0">
-              <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">
-                  Signup
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link active" href="#">
-                  About
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link active" href="#">
-                  Product
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link active" href="#">
-                  Pricing
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link active" href="#">
-                  Support
-                </a>
-              </li>
-              <li class="nav-item">
-                <i class="nav-link fa fa-bars mt-1" aria-hidden="true"></i>
-              </li>
-            </ul>
+        </div>
+
+        <div className="col">
+          <div className="collapse navbar-collapse" id="navbarSupportedContent">
+            <form className="d-flex">
+              <ul className="navbar-nav mb-lg-0">
+                <li className="nav-item">
+                  <a className="nav-link active" href="#">Signup</a>
+                </li>
+                <li className="nav-item">
+                  <a className="nav-link active" href="#">About</a>
+                </li>
+                <li className="nav-item">
+                  <a className="nav-link active" href="#">Product</a>
+                </li>
+                <li className="nav-item">
+                  <a className="nav-link active" href="#">Pricing</a>
+                </li>
+                <li className="nav-item">
+                  <a className="nav-link active" href="#">Support</a>
+                </li>
+                <li className="nav-item">
+                  <i className="nav-link fa fa-bars mt-1" aria-hidden="true"></i>
+                </li>
+              </ul>
             </form>
           </div>
         </div>
-      </nav>
+      </div>
+    </nav>
   );
 }
 
