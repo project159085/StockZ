@@ -32,57 +32,89 @@ function Footer() {
           </div>
           <div className="col">
             <p>Company</p>
-            <a href="#" style={{ textDecoration: "none" }}>About</a>
+            <a href="#" style={{ textDecoration: "none" }}>
+              About
+            </a>
             <br />
-            <a href="#" style={{ textDecoration: "none" }}>Product</a>
+            <a href="#" style={{ textDecoration: "none" }}>
+              Product
+            </a>
             <br />
-            <a href="#" style={{ textDecoration: "none" }}>Pricing</a>
+            <a href="#" style={{ textDecoration: "none" }}>
+              Pricing
+            </a>
             <br />
-            <a href="#" style={{ textDecoration: "none" }}>Referral Programme</a>
+            <a href="#" style={{ textDecoration: "none" }}>
+              Referral Programme
+            </a>
             <br />
-            <a href="#" style={{ textDecoration: "none" }}>Careers</a>
+            <a href="#" style={{ textDecoration: "none" }}>
+              Careers
+            </a>
             <br />
-            <a href="#" style={{ textDecoration: "none" }}>StockZ.tech</a>
+            <a href="#" style={{ textDecoration: "none" }}>
+              StockZ.tech
+            </a>
             <br />
-            <a href="#" style={{ textDecoration: "none" }}>Press & Media</a>
+            <a href="#" style={{ textDecoration: "none" }}>
+              Press & Media
+            </a>
             <br />
-            <a href="#" style={{ textDecoration: "none" }}>StockZ Cares</a>
+            <a href="#" style={{ textDecoration: "none" }}>
+              StockZ Cares
+            </a>
             <br />
           </div>
           <div className="col">
             <p>Support</p>
-            <a href="#" style={{ textDecoration: "none" }}>Contact</a>
+            <a href="#" style={{ textDecoration: "none" }}>
+              Contact
+            </a>
             <br />
-            <a href="#" style={{ textDecoration: "none" }}>Support Portal</a>
+            <a href="#" style={{ textDecoration: "none" }}>
+              Support Portal
+            </a>
             <br />
-            <a href="#" style={{ textDecoration: "none" }}>Z-Connect Blog</a>
+            <a href="#" style={{ textDecoration: "none" }}>
+              Z-Connect Blog
+            </a>
             <br />
-            <a href="#"  style={{ textDecoration: "none" }}>List of Charges</a>
+            <a href="#" style={{ textDecoration: "none" }}>
+              List of Charges
+            </a>
             <br />
-            <a href="#" style={{ textDecoration: "none" }}>Downloads & Resources</a>
+            <a href="#" style={{ textDecoration: "none" }}>
+              Downloads & Resources
+            </a>
             <br />
           </div>
           <div className="col">
             <p>Account</p>
-            <a href="#" style={{ textDecoration: "none" }}>Open an Account</a>
+            <a href="#" style={{ textDecoration: "none" }}>
+              Open an Account
+            </a>
             <br />
-            <a href="#" style={{ textDecoration: "none" }}>Fund Transfer</a>
+            <a href="#" style={{ textDecoration: "none" }}>
+              Fund Transfer
+            </a>
             <br />
-            <a href="#" style={{ textDecoration: "none" }}>60 Day Challenge</a>
+            <a href="#" style={{ textDecoration: "none" }}>
+              60 Day Challenge
+            </a>
             <br />
           </div>
         </div>
         <div className="mt-5 text-muted" style={{ fontSize: "11px" }}>
           <p>
-            Zerodha Broking Ltd.: Member of NSE, BSE​ &​ MCX – SEBI Registration
-            no.: INZ000031633 CDSL/NSDL: Depository services through Zerodha
-            Broking Ltd. – SEBI Registration no.: IN-DP-431-2019 Registered
-            Address: Zerodha Broking Ltd., #153/154, 4th Cross, Dollars Colony,
-            Opp. Clarence Public School, J.P Nagar 4th Phase, Bengaluru -
-            560078, Karnataka, India. For any complaints pertaining to
-            securities broking please write to complaints@zerodha.com, for DP
-            related to dp@zerodha.com. Please ensure you carefully read the Risk
-            Disclosure Document as prescribed by SEBI | ICF
+            StockZ Broking Ltd.: Member of NSE, BSE​ &​ MCX – SEBI Registration
+            no.: INS000091737 CDSL/NSDL: Depository services through StockZ
+            Broking Ltd. – SEBI Registration no.: IN-SZ-461-2017 Registered
+            Address: StockZ Broking Ltd., #153/154, 4th Cross, Dollars Colony,
+            Opp. Clarence Catholic Church, S.K Road 4th Phase, Kathmandu -
+            548088, Nepal. For any complaints pertaining to securities broking
+            please write to complaints@StockZ.com, for DP related to
+            dp@StockZ.com. Please ensure you carefully read the Risk Disclosure
+            Document as prescribed by SEBI | ICF
           </p>
           <p>
             Procedure to file a complaint on SEBI SCORES: Register on SCORES
