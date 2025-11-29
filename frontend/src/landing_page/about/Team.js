@@ -12,18 +12,18 @@ function Team() {
       >
         <div className="col-6 p-4 text-center">
           <img
-            src="media/images/nithinKamath.jpg"
+            src="media/images/dr.jpg"
             alt="ProfilePhoto"
-            style={{ borderRadius: "100%", width: "50%" }}
+            style={{ borderRadius: "20%", width: "50%" }}
           />
-          <h4 className="mt-3">Nithin Kamath</h4>
+          <h4 className="mt-3">Dnyaneshwar Rathod</h4>
           <h6 className="mt-4">Founder, CEO</h6>
         </div>
         <div className="col-6 p-5">
           <p>
-            Nithin bootstrapped and founded Zerodha in 2010 to overcome the
+            Dnyaneshwar bootstrapped and founded StockZ in 2010 to overcome the
             hurdles he faced during his decade long stint as a trader. Today,
-            Zerodha has changed the landscape of the Indian broking industry.
+            StockZ has changed the landscape of the Indian broking industry.
           </p>
           <p>
             He is a member of the SEBI Secondary Market Advisory Committee
