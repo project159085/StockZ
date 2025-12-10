@@ -6,6 +6,7 @@ function RightSection() {
             <div className='row'>
                 <div></div>
                 <div></div>
+                <div></div>
             </div>
         </div>
      );
